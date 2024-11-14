@@ -1,0 +1,84 @@
+{
+    "estacoes": [
+        {
+          "locationLatitude": -15.8035891,
+          "locationLongitude": -47.9611594,
+          "description": "Isofen/SIA TRECHO 3 - 22kw",
+          "chargePointVendor": "Intelbras",
+          "tenantName": "Isofen",
+          "chargeBoxId": "JDBK4300040AF"
+        },
+        {
+          "locationLatitude": -15.82880292,
+          "locationLongitude": -47.95666912,
+          "description": "Park Sul- 60KW",
+          "chargePointVendor": "BYDC20231118026",
+          "tenantName": "Isofen",
+          "chargeBoxId": "BYDC202311180261"
+        },
+        {
+          "locationLatitude": -15.80282638,
+          "locationLongitude": -47.94813209,
+          "description": "Atacadão Dia a Dia/SIA - 60KW",
+          "chargePointVendor": "BYDC20231118026",
+          "tenantName": "Isofen",
+          "chargeBoxId": "BYDC202311180260"
+        },
+        {
+          "locationLatitude": -15.84175049,
+          "locationLongitude": -48.0314675,
+          "description": "Posto Garantia/Águas Claras - 30KW",
+          "chargePointVendor": "BYDC20231118026",
+          "tenantName": "Isofen",
+          "chargeBoxId": "BYDC202311180268"
+        },
+        {
+          "locationLatitude": -15.69899725,
+          "locationLongitude": -47.87870765,
+          "description": "Saga Toyota/Colorado - 60KW",
+          "chargePointVendor": "BYDC20231118026",
+          "tenantName": "Isofen",
+          "chargeBoxId": "BYDC202311180263"
+        },
+        {
+          "locationLatitude": -15.81674032,
+          "locationLongitude": -47.87107944,
+          "description": "Açougue do Berg/SCES - 60kW",
+          "chargePointVendor": "BYDC20231118026",
+          "tenantName": "Isofen",
+          "chargeBoxId": "BYDC202311180264"
+        },
+        {
+          "locationLatitude": -16.35340501,
+          "locationLongitude": -48.96186141,
+          "description": "Hotel Intercity/ANÁPOLIS - 30KW",
+          "chargePointVendor": "ISOC20241118067",
+          "tenantName": "Isofen",
+          "chargeBoxId": "ISOC202411180267"
+        },
+        {
+          "locationLatitude": -16.35336522,
+          "locationLongitude": -48.96194682,
+          "description": "Hotel Intercity/ANÁPOLIS - 22KW",
+          "chargePointVendor": "Intelbras",
+          "tenantName": "Isofen",
+          "chargeBoxId": "JDBK43000439K"
+        },
+        {
+          "locationLatitude": -15.80369213,
+          "locationLongitude": -47.96014655,
+          "description": "Isofen/SIA TRECHO 3 - 60KW ",
+          "chargePointVendor": "BYDC20231118026",
+          "tenantName": "Isofen",
+          "chargeBoxId": "BYDC202311180266"
+        },
+        {
+          "locationLatitude": -17.72366335,
+          "locationLongitude": -48.64274918,
+          "description": "Atacadão Dia a Dia/CALDAS NOVAS - 60KW",
+          "chargePointVendor": "MOBI202311l8026",
+          "tenantName": "Isofen",
+          "chargeBoxId": "MOBI202311180262"
+        }
+      ]
+}
